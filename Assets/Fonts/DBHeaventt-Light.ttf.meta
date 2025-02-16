@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b4a59cf9d86a239499bae0b60a5772d0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DB Heavent
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f18ed83e2ebb9374eb074339a2d8d840, type: 3}
+  - {fileID: 12800000, guid: cae35459af3cd4b1f9bb69f71374eaa6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

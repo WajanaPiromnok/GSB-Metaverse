@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a5fac8efe49e9924db40b5ea786cb205
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 2d84d137496322a449b061f09e674932, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225293
+  packageName: Pop Input
+  packageVersion: 1.2
+  assetPath: Assets/Plugins/Pop Input/Core/Scripts/WebCompatibleEventSystem.cs
+  uploadId: 549875
