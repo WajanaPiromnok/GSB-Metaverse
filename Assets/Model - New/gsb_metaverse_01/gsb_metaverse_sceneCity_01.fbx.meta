@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 378e47de2efcc154fac64e7564c6ea86
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AlbedoBase_XL_A_realistic_2D_architectural_illustration_of_an_3
+    second: {fileID: 2100000, guid: 43bd2ca76c1ac1844abb2f22f9e8a274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: c144ff6a121f4de469c0e7ce38897bc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ahlpa_shop_mat.001
+    second: {fileID: 2100000, guid: 5b4d9b0dc323574458cf3849d6fce1fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_mat
+    second: {fileID: 2100000, guid: 05479cf010cf4a14eb15cd59a1a618ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_auto_door_mat
+    second: {fileID: 2100000, guid: 5d9c2137404755f4da0121c784fcebb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_bg_building_mat
+    second: {fileID: 2100000, guid: 4352a3d35f2dad149af190966b18c840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_building_mat
+    second: {fileID: 2100000, guid: 4e282cfc1ac52894bbe7642f6d544181, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_logo_bw_alpha
+    second: {fileID: 2100000, guid: e91c20ba0e7b24647b3bb3c454d4d4c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_market_sign_03_mat
+    second: {fileID: 2100000, guid: fecebe79e04aaa04c9d5318e5962cfe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_market_stall.001
+    second: {fileID: 2100000, guid: 7c393e13e1bc4c44e8a9a3f5468504c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_market_stall_02_mat.001
+    second: {fileID: 2100000, guid: c0bb470530e0ce44fa95445c35892298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_mountain_mat
+    second: {fileID: 2100000, guid: a853f9dc14e08b4499719a51301ebe2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_base3
+    second: {fileID: 2100000, guid: c76294f99276e874b92625112a22fde5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_alpha
+    second: {fileID: 2100000, guid: 1e54bb38dff6fe3459119e90739d01dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_alpha.003
+    second: {fileID: 2100000, guid: 68e1d3a57e476fb4b8c02f101a7bfadb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_alpha3
+    second: {fileID: 2100000, guid: ee15578464c37354db33ed4031e3f362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base
+    second: {fileID: 2100000, guid: a0dfd4371719ed64cb682001036eb2e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.001
+    second: {fileID: 2100000, guid: 6f53881ebbd718745ae2077a0504c498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.006
+    second: {fileID: 2100000, guid: 7dda40f5be6e34848a4dff0d32c46e26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base6.001
+    second: {fileID: 2100000, guid: b8df91432a3041f4f984ad75222ba971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_sign_tower_mat
+    second: {fileID: 2100000, guid: 15242165ec106dc4b8a0247212fc2007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_stage_display_mat
+    second: {fileID: 2100000, guid: 642f09a73247d224fbafb1892a7e0746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_station_bkk_base_mat.001
+    second: {fileID: 2100000, guid: 022e8148a7231484899aa51c4b1facfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_tower_center_mat
+    second: {fileID: 2100000, guid: 587e85062ace1e94aa23840030170364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_tower_roof_mat
+    second: {fileID: 2100000, guid: 339462fdb26e9354eb6a3957cce8f4bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_tower_side_mat
+    second: {fileID: 2100000, guid: bcf42f1e9d3e0c74fab65ea39d178292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_tower_tube_mat
+    second: {fileID: 2100000, guid: f4e12f74d2d4cee498c919a68af21d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_truss_pattern_base
+    second: {fileID: 2100000, guid: 7823d5a424cdac3469ba8a936b5d6ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert44
+    second: {fileID: 2100000, guid: 5987478d616957742b1de701b39b44e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road
+    second: {fileID: 2100000, guid: 530e5cf86fc211945a9bdc59cf9719f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: set_Asmall_building_mat.001
+    second: {fileID: 2100000, guid: b76d3b323efdc4a4c927cefd0a445681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: set_B_small_building_mat.001
+    second: {fileID: 2100000, guid: f0ce7a1fcb9a6ef419432fcf9086d659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: set_B_small_building_mat.003
+    second: {fileID: 2100000, guid: b6019a2d7e1e07b4b99e130e6ae19d01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: set_B_small_building_mat.004
+    second: {fileID: 2100000, guid: d2b1769add7fff840af9419efcd82595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stonefloor_mat
+    second: {fileID: 2100000, guid: a3c228a79bcf1e64f888e7cb4ca824ea, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 481362270_1151217029540122_1500422800452617253_n
+    second: {fileID: 2800000, guid: 422ac584fe8a2724c8c88c8b4c1d17e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlbedoBase_XL_A_realistic_2D_architectural_illustration_of_an_3
+    second: {fileID: 2800000, guid: 369aacf1a90df2a4aa93e4f952d59416, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baseColor_Map
+    second: {fileID: 2800000, guid: 62062f2db624e334d826a7c928df6a2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: deHaht_512_color-up
+    second: {fileID: 2800000, guid: b7cfbec65b440244a8f4bc05a3ea8dce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_auto_door_alpha
+    second: {fileID: 2800000, guid: be21f122e23260a47badca8f3476fec1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_auto_door_base
+    second: {fileID: 2800000, guid: 9cf732477c8450441b88b1fcd7ce52ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_bg_building_03_baseMap
+    second: {fileID: 2800000, guid: 4f1be7ade40fd15438da63e27e93ad4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_logo_alpha
+    second: {fileID: 2800000, guid: 690294a4f20268445adc229b5daee605, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_logo_bw_upscayl_2x_upscayl-standard-4x
+    second: {fileID: 2800000, guid: e4247ccbadd79484684145acd60a33f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_logo_tower_alphaMap
+    second: {fileID: 2800000, guid: 1c5c3e6c377d72e4bbf865a78f635d8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_logo_tower_baseColor
+    second: {fileID: 2800000, guid: 12db46104196f384286de8da0caada58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_main_road_baseColor
+    second: {fileID: 2800000, guid: b82fa235005d1544293e9d31b983bdc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_market_sign_03_alpha
+    second: {fileID: 2800000, guid: a2fbe64183f90fe4285da57bf4214870, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_market_sign_03_baseColor
+    second: {fileID: 2800000, guid: 7d730159111a23f499cf57e28e3ccb9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_market_stall
+    second: {fileID: 2800000, guid: cb1a26d6e76ee79468c21fc7accc40d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_market_stall_02
+    second: {fileID: 2800000, guid: 9cb19cc48cc31f44ea12b480d8fc068c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_market_stall_alpha_02
+    second: {fileID: 2800000, guid: f0a8a9edc3985684f8bc22dcebae28d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_mountain_alphaMap
+    second: {fileID: 2800000, guid: 8ebcbd42438ff2246a5aef8d499c1f18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_mountain_baseMap
+    second: {fileID: 2800000, guid: ff39c0edba17d034e9bfa9a140ccfcbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_base_02_BaseMap
+    second: {fileID: 2800000, guid: 525d68ea95658c547b350b4fd35271f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_alphaMap
+    second: {fileID: 2800000, guid: 712bc93ad1fef1343b5080035b61de3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_alpha_Alpha
+    second: {fileID: 2800000, guid: a7d20c1ba53543d4688e2f2626d50d6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_alpha_BaseMap
+    second: {fileID: 2800000, guid: d59523d59abac0c4e841bfa35f057b0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_baseMap
+    second: {fileID: 2800000, guid: e5b9a780265b8c94087aa045fb45649c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_station_bkk_alphaMap
+    second: {fileID: 2800000, guid: 6a551875d4990df42befd49c9f8a2b5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_station_bkk_baseColor
+    second: {fileID: 2800000, guid: bbb841daec01eab45ab6a56d015cd3e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_test_banner
+    second: {fileID: 2800000, guid: 57c74043c24e53440856b737d711038a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_tower_glassWindow_baseMap
+    second: {fileID: 2800000, guid: 5b553d808afcc6542af308528dde52f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: seet_A_small_building_tex04
+    second: {fileID: 2800000, guid: d0146e6bf6f2ff64e8891b252b44249e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: set_B_small_building_tex02_
+    second: {fileID: 2800000, guid: d16739963d9a20f4c8f12050c245f4ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: set_B_small_building_tex03
+    second: {fileID: 2800000, guid: f74f6225d2ed3aa479b03ee4f43cdb74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shop_alhpatexture02
+    second: {fileID: 2800000, guid: e3f04ccf82af90545966dc24588b624e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: thumb-1920-34601
+    second: {fileID: 2800000, guid: 3ba209b8a6005ca41b52d8b1f73504a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: truss_pattern
+    second: {fileID: 2800000, guid: a79770ff93d0b0544917bf2c294a702c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: truss_pattern_alpha
+    second: {fileID: 2800000, guid: 166a0328b77d2c549ab6457d769e5856, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 956b24cd34cc87746a59170f4297c6c2
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_banner
+    second: {fileID: 2100000, guid: 62ed7fc47ac5cc0408405cfc8f7b2931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_banner.005
+    second: {fileID: 2100000, guid: 5db038387f0b4c74fa281221f15b5c60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_banner.006
+    second: {fileID: 2100000, guid: 57af50cdcc3d686439364a03a329013c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_banner.008
+    second: {fileID: 2100000, guid: 6f2992f601b36f0448be9d03256752ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_banner.009
+    second: {fileID: 2100000, guid: 46e0a7ab1366e374fa214c76a01174db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_banner.011
+    second: {fileID: 2100000, guid: 7819b93efe5a3f04983b1e2d86fa21e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_chair_leg_mat
+    second: {fileID: 2100000, guid: 1558450272e2b8c48ac406acde0212d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_map
+    second: {fileID: 2100000, guid: 468ef0e561284ee4ca01e405030897ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_alpha.002
+    second: {fileID: 2100000, guid: 99f49871faf012d44b88e0ca9fff5c0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.001
+    second: {fileID: 2100000, guid: f352f867be551b44c9f821bac5dc9077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.006
+    second: {fileID: 2100000, guid: 769da7154e69b1b46be2ee0319c9e2f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.019
+    second: {fileID: 2100000, guid: 3bcb671d56302924d8b9ae25f6fdfc87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.020
+    second: {fileID: 2100000, guid: 252122e3c05966b459061757606fb44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.022
+    second: {fileID: 2100000, guid: 31410ac91058a834291bc850e75eb339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.023
+    second: {fileID: 2100000, guid: aef97797f65c6214dbea52177a27368e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.024
+    second: {fileID: 2100000, guid: a4e1b802c70b6c043bb9508fafcd5223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.025
+    second: {fileID: 2100000, guid: d0b134bfe4364084ea5e2ab7e99d072f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.027
+    second: {fileID: 2100000, guid: 6d320b9376813574d8f1b4572e81a683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_base.028
+    second: {fileID: 2100000, guid: 8c8742c036acf1741ae6ed1129069b61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert50
+    second: {fileID: 2100000, guid: 9a90490b2bd7a1b49a122bf06224144e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: deHaht_512_color-up
+    second: {fileID: 2800000, guid: 960fdf39d4908f545a0209b1bb04210f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: enter_gate_2
+    second: {fileID: 2800000, guid: ab2c31450615da746b55a65a127b4238, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: enter_gate_3
+    second: {fileID: 2800000, guid: 16f34924bc22d3544bb052ffd9d94fcd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_chair_leg_alphaMap
+    second: {fileID: 2800000, guid: 76e95e8eadc191b4c8e9b7eb2c2e6f66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_chair_leg_baseColor
+    second: {fileID: 2800000, guid: e4688ca90ce91a84ab4a69c07cf24036, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_logo
+    second: {fileID: 2800000, guid: 917b182335690784a9a7641afc77f7dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_alpha_Alpha
+    second: {fileID: 2800000, guid: 7c4ac9166161f0848b8b82880b591cc1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gsb_prop_gradient_alpha_BaseMap
+    second: {fileID: 2800000, guid: c4287d3aae20dcb43ba6899f368e8e55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: map
+    second: {fileID: 2800000, guid: 8bb5c2dab6fd2224b8fc1759d9c692f8, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
